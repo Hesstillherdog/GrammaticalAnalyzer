@@ -1,0 +1,4 @@
+S  -> if E then S S'
+S' -> else S | epsilon
+S  -> id
+E  -> id
